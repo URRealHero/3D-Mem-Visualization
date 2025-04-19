@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>PLY Point Cloud Viewer</title>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.136.0/build/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.136.0/examples/js/loaders/PLYLoader.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.136.0/examples/js/controls/OrbitControls.js"></script>
+  <style>
+    html, body {
+      margin: 0;
+      overflow: hidden;
+      font-family: sans-serif;
+    }
+
+    #container {
+      display: flex;
+      height: 100vh;
+      width: 100vw;
+    }
+
+    #panel {
+      width: 220px;
+      background: #1e1e1e;
+      color: #eee;
+      padding: 15px;
+      box-sizing: border-box;
+    }
+
+    #viewer {
+      flex: 1;
+    }
+
+    label {
+      display: block;
+      margin-top: 10px;
+    }
+
+    input[type="color"],
+    input[type="range"] {
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+<div id="container">
+  <div id="panel">
+    <h3>Viewer Controls</h3>
+    <label>
+      Point Size:
+      <input id="pointSize" type="range" min="0.001" max="0.05" step="0.001" value="0.01">
+    </label>
+
+    <label>
+      Point Color:
+      <input id="pointColor" type="color" value="#00ffff">
+    </label>
+
+    <label>
+      <input type="checkbox" id="toggleAxes"> Show Axes
+    </label>
+
+    <label>
+      <input type="checkbox" id="toggleBox"> Show Bounding Box
+    </label>
+  </div>
+
+  <div id="viewer"></div>
+</div>
+
+<script>
+  const container = document.getElementById("viewer");
+
+  const urlParams = new URLSearchParams(window.location.search);
+  let modelPath = urlParams.get("model");
+  if (!modelPath.startsWith("/")) modelPath = "/" + modelPath;
+
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(75, container.clientWidth / container.clientHeight, 0.01, 100);
+  camera.position.z = 1.5;
+
+  const renderer = new THREE.WebGLRenderer({ antialias: true });
+  renderer.setSize(container.clientWidth, container.clientHeight);
+  container.appendChild(renderer.domElement);
+
+  const controls = new THREE.OrbitControls(camera, renderer.domElement);
+  controls.update();
+
+  const hemiLight = new THREE.HemisphereLight(0xffffff, 0x444444, 1.2);
+  scene.add(hemiLight);
+
+  let pointCloud, geometry, material, axesHelper, boundingBox;
+
+  const loader = new THREE.PLYLoader();
+  loader.load(modelPath, function (geo) {
+    geometry = geo;
+    material = new THREE.PointsMaterial({
+      size: parseFloat(document.getElementById("pointSize").value),
+      color: new THREE.Color(document.getElementById("pointColor").value)
+    });
+    pointCloud = new THREE.Points(geometry, material);
+    scene.add(pointCloud);
+
+    if (geometry.boundingBox === null) geometry.computeBoundingBox();
+    const center = geometry.boundingBox.getCenter(new THREE.Vector3());
+    controls.target.copy(center);
+    controls.update();
+  });
+
+  // Point size control
+  document.getElementById("pointSize").addEventListener("input", (e) => {
+    if (material) material.size = parseFloat(e.target.value);
+  });
+
+  // Color control
+  document.getElementById("pointColor").addEventListener("input", (e) => {
+    if (material) material.color.set(e.target.value);
+  });
+
+  // Toggle Axes
+  document.getElementById("toggleAxes").addEventListener("change", (e) => {
+    if (e.target.checked) {
+      axesHelper = new THREE.AxesHelper(0.2);
+      scene.add(axesHelper);
+    } else if (axesHelper) {
+      scene.remove(axesHelper);
+    }
+  });
+
+  // Toggle Bounding Box
+  document.getElementById("toggleBox").addEventListener("change", (e) => {
+    if (e.target.checked && geometry) {
+      geometry.computeBoundingBox();
+      const box = geometry.boundingBox;
+      const helper = new THREE.Box3Helper(box, 0xffaa00);
+      boundingBox = helper;
+      scene.add(boundingBox);
+    } else if (boundingBox) {
+      scene.remove(boundingBox);
+    }
+  });
+
+  function animate() {
+    requestAnimationFrame(animate);
+    renderer.render(scene, camera);
+  }
+  animate();
+
+  window.addEventListener("resize", () => {
+    camera.aspect = container.clientWidth / container.clientHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(container.clientWidth, container.clientHeight);
+  });
+</script>
+</body>
+</html>

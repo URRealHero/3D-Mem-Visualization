@@ -1,0 +1,798 @@
+{
+    "313bfbd7bc2d516e14d782de5388fe8c": {
+        "distance": 0.041459016501903534,
+        "ref_modelId": "411a1a4ac8ade7da76e9713f57a5fcb6"
+    },
+    "30378faa6bf5b245fdef1c01cbd4ae0c": {
+        "distance": 0.03532351925969124,
+        "ref_modelId": "32a9329c11b5c35d4b3c42e318f3affc"
+    },
+    "fe307b67739d9620d874a9fab241259d": {
+        "distance": 0.027636386454105377,
+        "ref_modelId": "4edfd09b8d7717cc579600e6ae92ac5e"
+    },
+    "62d87dab8cb3fd16c050719ed29b64cf": {
+        "distance": 0.029591456055641174,
+        "ref_modelId": "5283a98b5c693e64ebefe6b1d594ad2e"
+    },
+    "763bccb675b7439ab9afb6208cab1d": {
+        "distance": 0.03972983360290527,
+        "ref_modelId": "402e47d9e3f825dcb9d7c2fc41e80228"
+    },
+    "d1237422881f4d22ff25b0c2db862d19": {
+        "distance": 0.04375668987631798,
+        "ref_modelId": "d7d709cd13cdca931afedc87fe387fe"
+    },
+    "73a7e497299da43885a2d2169cad3428": {
+        "distance": 0.0507766455411911,
+        "ref_modelId": "4ad06cdc2f8929f44733824eae5cd9ae"
+    },
+    "ca05bd1afb0ffeaf6b9a484dedfb7d25": {
+        "distance": 0.03350949287414551,
+        "ref_modelId": "bace9433ae54fcb3290d57214c8512a4"
+    },
+    "aa300965dead4fa33f09c790ddd20f8c": {
+        "distance": 0.03526366502046585,
+        "ref_modelId": "1c6eb96eab5e75b67b79156a61ad4c01"
+    },
+    "97d75ad96c2c08268cbb8bac2032149c": {
+        "distance": 0.03792581707239151,
+        "ref_modelId": "7fa5ce045ee0a286606aad310bc344b7"
+    },
+    "eba001ddae2ce5eed5d673747c0e3adb": {
+        "distance": 0.023927193135023117,
+        "ref_modelId": "6fd76577d0df60669b9f2eb77f5e247e"
+    },
+    "92373022868b812fe9aa238b4bc8322e": {
+        "distance": 0.04018490016460419,
+        "ref_modelId": "7a2d21eddb89c8242058afcc28d23393"
+    },
+    "1c6eb96eab5e75b67b79156a61ad4c01": {
+        "distance": 0.03280218690633774,
+        "ref_modelId": "6b796faf03a2806f397aec0de5712401"
+    },
+    "11525a18678f7ce6ae1e1181f20bb9c8": {
+        "distance": 0.05155383050441742,
+        "ref_modelId": "e6b77b99ea085896c862eec8232fff1e"
+    },
+    "f2129c67cb55c6868779f85a8bc31fb": {
+        "distance": 0.03819622844457626,
+        "ref_modelId": "aa1e9626e1e23038cc0b9bf177196e52"
+    },
+    "13076ebf8b5cc457b8d6f69a14683de3": {
+        "distance": 0.03836691007018089,
+        "ref_modelId": "499c4b519c708ae84cd08aa7c510fb85"
+    },
+    "c59cdd1537bd75ddd0818327fc390a5": {
+        "distance": 0.017349455505609512,
+        "ref_modelId": "20ae4b27e86521a32efc7fb40a53aaac"
+    },
+    "55d147c5125f5043e1ddfae8bbce5fe6": {
+        "distance": 0.0407552607357502,
+        "ref_modelId": "4ea3d680127a9fe91360172b4b6205b1"
+    },
+    "c3cfd2188fe7ae365fe4ecea39e8bd40": {
+        "distance": 0.04126973822712898,
+        "ref_modelId": "182c47283b90d8b2d85934de5898f0b"
+    },
+    "1cc6f2ed3d684fa245f213b8994b4a04": {
+        "distance": 0.02796054631471634,
+        "ref_modelId": "4bc5920f74bbf6412acd2bb6205825cb"
+    },
+    "395868f297f01d2d492d9da2668ec34c": {
+        "distance": 0.03180457279086113,
+        "ref_modelId": "d2a5b42cf29b753f71a782a4379556c7"
+    },
+    "59fa70f195fd4ac6ae8c9d3b8c4b9bc3": {
+        "distance": 0.041606079787015915,
+        "ref_modelId": "bf8e44b58d2d95f45c6cb69e0968783"
+    },
+    "57c6cf844c09c5d8b40f0ac0fb9a650d": {
+        "distance": 0.04298767074942589,
+        "ref_modelId": "79850e4ff6e43e6b3dfa4373373135f6"
+    },
+    "8cedc8e684d60ff42a06d8c81262ef96": {
+        "distance": 0.034160956740379333,
+        "ref_modelId": "91f867d862e6c96c3ea242d1c18c3489"
+    },
+    "4fa8eaacaaad472819fb4103277a6b93": {
+        "distance": 0.04202437028288841,
+        "ref_modelId": "bf89775d876f6849f2b7580a739cd4d5"
+    },
+    "67c866143e633daaa6fee8e2140acec9": {
+        "distance": 0.04485025256872177,
+        "ref_modelId": "e64275c95e41605caf7c7ad2549a1b15"
+    },
+    "40020a5e90c75d94a93412f1b60e6fba": {
+        "distance": 0.04628890007734299,
+        "ref_modelId": "1e2e68813f004d8ff8b8d4a282992be4"
+    },
+    "b10dd8cb211b26ba98d5fc0473d00a1c": {
+        "distance": 0.052026621997356415,
+        "ref_modelId": "3db18530ff6bbb50f130e9cdbbb1cf40"
+    },
+    "86b6e539e72be6d46fa0ab61d9f9d96d": {
+        "distance": 0.046206384897232056,
+        "ref_modelId": "971a98d242991e2222ed3259ee7e608a"
+    },
+    "4d6f35e7eebab44e2c8a86aeeb3b996e": {
+        "distance": 0.029240768402814865,
+        "ref_modelId": "9d9b5f5b3fd41136244d7c2690850fc2"
+    },
+    "1eeae84f10df85cd74984b9cd0997a52": {
+        "distance": 0.03794284164905548,
+        "ref_modelId": "9d961de6d462a7619fb4103277a6b93"
+    },
+    "3d3b7f63f5525b1ae37f5a622d383617": {
+        "distance": 0.03733542934060097,
+        "ref_modelId": "3dac0fd995c747ab336e8bf2357c029a"
+    },
+    "c5afaadb73323de9645a86b04c64b372": {
+        "distance": 0.04686281830072403,
+        "ref_modelId": "56bd6bcf5034c7e2f9b9977a2406713a"
+    },
+    "808cd961edfc236c11794406b17d66b": {
+        "distance": 0.055392246693372726,
+        "ref_modelId": "99867a25638b6809b91b871e750ca615"
+    },
+    "86c4bc3f46e1bf7bad179769eda42205": {
+        "distance": 0.038389965891838074,
+        "ref_modelId": "65da0b239837b0f3f3ee5e8ea028d6"
+    },
+    "862f70e73fa70c9b1a719e2a845bdada": {
+        "distance": 0.038886845111846924,
+        "ref_modelId": "e0a473eb557c424320768660cf080d12"
+    },
+    "1055f78d441d170c4f3443b22038d340": {
+        "distance": 0.04174284636974335,
+        "ref_modelId": "ee484fb2c1e4e611a0dcc52ca811e565"
+    },
+    "a16b8de490656d03713decb1a0563b12": {
+        "distance": 0.025847865268588066,
+        "ref_modelId": "d4d9b991ff7d31e8c8687ff9b0b4e4ac"
+    },
+    "e4a93adf5399b23419fb4103277a6b93": {
+        "distance": 0.038900554180145264,
+        "ref_modelId": "6050ef2e6ac4ffae490ad276cd2af3a4"
+    },
+    "3895b96949fd81c5f07fee5fc5c45ee2": {
+        "distance": 0.02712862938642502,
+        "ref_modelId": "a5f8050192680e993e6a70f59cdd19a6"
+    },
+    "d0500d229baf05b0e83221ad0d21775": {
+        "distance": 0.035326819866895676,
+        "ref_modelId": "694d9c2e9e769ffe83221ad0d21775"
+    },
+    "74346aabf555ee0295122b1ef21ee4c7": {
+        "distance": 0.04619652032852173,
+        "ref_modelId": "5974ff38b45265bb352fc7e973ba7787"
+    },
+    "78abbfe9ab73729f56d13e757b0dc374": {
+        "distance": 0.040214456617832184,
+        "ref_modelId": "790d554d7f9b040299513f98ce033426"
+    },
+    "9db73a6184c82d33f28699debac30ad6": {
+        "distance": 0.0419197678565979,
+        "ref_modelId": "bf8e44b58d2d95f45c6cb69e0968783"
+    },
+    "4450887b9a8867e6d9b53420a5458c53": {
+        "distance": 0.033564694225788116,
+        "ref_modelId": "2f6b0ddf12d1311795bea7c29e873d16"
+    },
+    "994dccd2cb784510a6fee8e2140acec9": {
+        "distance": 0.041510917246341705,
+        "ref_modelId": "10de9af4e91682851e5f7bff98fb8d02"
+    },
+    "71eca23b5fc484cc59fe89a0706f1a71": {
+        "distance": 0.039882779121398926,
+        "ref_modelId": "103a60f3b09107df2da1314e036b435e"
+    },
+    "8becb5888c900f3a610c2a68437007d6": {
+        "distance": 0.032418329268693924,
+        "ref_modelId": "9d961de6d462a7619fb4103277a6b93"
+    },
+    "b60fb4126e9e7c2aee3907b60a74e8f8": {
+        "distance": 0.04443393647670746,
+        "ref_modelId": "8bce3b7b7f0f48ad28a1548e344f0e2e"
+    },
+    "e64562ae2925d5f3f58087d377226538": {
+        "distance": 0.04224879667162895,
+        "ref_modelId": "8bce3b7b7f0f48ad28a1548e344f0e2e"
+    },
+    "bfbc5e6ebe1813a5d9fad8aba2c312b7": {
+        "distance": 0.04080165922641754,
+        "ref_modelId": "5b0dd54eced22552b283c8c7333d797"
+    },
+    "39c629e6f9e752964c6ea7add0063fc3": {
+        "distance": 0.037735484540462494,
+        "ref_modelId": "810cac0d137efb1d21bdbc0445d9f748"
+    },
+    "97c343e28e2b9ea4bf4414e655b3a4c": {
+        "distance": 0.03511550650000572,
+        "ref_modelId": "fdfedb5bb8cd35374233148ffd345970"
+    },
+    "c2430d27be01948ab8e1b99345a5afd4": {
+        "distance": 0.03419332951307297,
+        "ref_modelId": "c58f6a35f86a1802e8f8c11a24c52ebb"
+    },
+    "f497cbcc4895d5386b684500e5db87c2": {
+        "distance": 0.027493150904774666,
+        "ref_modelId": "375dd87b163dc8a3a3c9394112c76917"
+    },
+    "2ff12e3a324071c0525a3d382a240768": {
+        "distance": 0.02615121752023697,
+        "ref_modelId": "e1e7e66978b888703f146f1fbd99cb1a"
+    },
+    "c0fa1417c0cf2f20593ebeeedbff73b": {
+        "distance": 0.02569209411740303,
+        "ref_modelId": "b267d11790325e6cec7cbf3284585a40"
+    },
+    "f1f8e16d23d3a0ba95f2719038c22311": {
+        "distance": 0.02825385518372059,
+        "ref_modelId": "f5ef49d354efe6741cda53280488fc3f"
+    },
+    "ffdc46ab1cfe759ce6fe3612af521500": {
+        "distance": 0.04633137211203575,
+        "ref_modelId": "f1a1bb6ad29d703078d928ba1c4a6f75"
+    },
+    "10dc303144fe5d668d1b9a1d97e2846": {
+        "distance": 0.038258448243141174,
+        "ref_modelId": "7eb842de7ad4cbad3e329950ec40f6dd"
+    },
+    "5cf26a5558580c8c75a82b88fe6e733f": {
+        "distance": 0.028286632150411606,
+        "ref_modelId": "9a5b54e835c762e4f51f77a6d7299806"
+    },
+    "ed108ed496777cf6490ad276cd2af3a4": {
+        "distance": 0.0457163006067276,
+        "ref_modelId": "fb912528e642f6ea7c7cfdf5546967dd"
+    },
+    "ccd49951295cb4cbe139cf2f6f121cad": {
+        "distance": 0.043599702417850494,
+        "ref_modelId": "a27818db3f288ac8473f10e6caaeca56"
+    },
+    "2364d6cbee1425fdc3bd24f986301745": {
+        "distance": 0.042886339128017426,
+        "ref_modelId": "6ea006e5c76576b89753496ba23f2183"
+    },
+    "62127325480bec8d2c6c98851414a9d8": {
+        "distance": 0.03269558772444725,
+        "ref_modelId": "d4d9b991ff7d31e8c8687ff9b0b4e4ac"
+    },
+    "925c06a5aea45ffbaf7c7ad2549a1b15": {
+        "distance": 0.04215520620346069,
+        "ref_modelId": "5a3fe2c1f1e2009e762ec387b772e9e1"
+    },
+    "c47e364fbc29803b2c0eb4a518e123ac": {
+        "distance": 0.035939328372478485,
+        "ref_modelId": "5f76562ab6c843cb575f9747ff6fb5e8"
+    },
+    "fd3d59ad4d0ddb44e15475f0b1eb22aa": {
+        "distance": 0.05007413029670715,
+        "ref_modelId": "1eb1a8acd4185f49492d9da2668ec34c"
+    },
+    "7114ef00fe68d053cccbd142483bf2e7": {
+        "distance": 0.08453693985939026,
+        "ref_modelId": "2a643eaf143a779f7eeca6709b6a824e"
+    },
+    "7ec876482b8d80ce5a8ae8f7c307d01c": {
+        "distance": 0.05293113738298416,
+        "ref_modelId": "30f4c4d94f4fcffaf51f77a6d7299806"
+    },
+    "6d5d42d1272467953b63c9ead28992f1": {
+        "distance": 0.03889168053865433,
+        "ref_modelId": "610b1621d1997ee1daf3c002be658861"
+    },
+    "cd5cc7a5e50478e82b520984c067934c": {
+        "distance": 0.04617854580283165,
+        "ref_modelId": "c61e3ca5004f3e8667816b64852d28f"
+    },
+    "d97c5945e9449a58737e4e0df09d751": {
+        "distance": 0.027224060148000717,
+        "ref_modelId": "e1e7e66978b888703f146f1fbd99cb1a"
+    },
+    "804cc836409c921ea666d560e4dc80d2": {
+        "distance": 0.021671049296855927,
+        "ref_modelId": "9d0b25421c13008e35836c728d324152"
+    },
+    "8e93fb99aaf17b9504ca5aa564aebd0": {
+        "distance": 0.034588612616062164,
+        "ref_modelId": "89a13017c0d517319fb4103277a6b93"
+    },
+    "243ab0d808fae5b76f1d1c49624bcfed": {
+        "distance": 0.036314599215984344,
+        "ref_modelId": "8e664a0bcaf9d2a45ca1aaa0789db621"
+    },
+    "f51ab8433184dfd2c8687ff9b0b4e4ac": {
+        "distance": 0.03643582761287689,
+        "ref_modelId": "29d5a6ae911ef708f51f77a6d7299806"
+    },
+    "9c825b20d4e35eb595a6db6161d501d6": {
+        "distance": 0.04403876140713692,
+        "ref_modelId": "453a678dec4e9d40f36ea1eb6542fe7e"
+    },
+    "250ffcc789426a255f46d55537192b6": {
+        "distance": 0.0262078195810318,
+        "ref_modelId": "df91f68fcd968fd0e4f1a5bf17db27b1"
+    },
+    "3d629d27b74fad91dbbc9440457e303e": {
+        "distance": 0.0408220998942852,
+        "ref_modelId": "bace9433ae54fcb3290d57214c8512a4"
+    },
+    "b47e994452b71943bf30e5b4764cebc0": {
+        "distance": 0.028164416551589966,
+        "ref_modelId": "736630a749935489f78c99506bdaf97d"
+    },
+    "e9df7789d02eb998c8687ff9b0b4e4ac": {
+        "distance": 0.04103218764066696,
+        "ref_modelId": "b8772904c25b61ac6b2befe83a0efe39"
+    },
+    "efc62fa0fd71d739d42ec7e303174a87": {
+        "distance": 0.038419708609580994,
+        "ref_modelId": "1aeb17f89e1bea954c6deb9ede0648df"
+    },
+    "4f188d1f92b859fc283b00891f680579": {
+        "distance": 0.04597785323858261,
+        "ref_modelId": "9c5b246616974299f1783a44a88d6274"
+    },
+    "704179dd47a2282e676de9b6e111da8b": {
+        "distance": 0.04996602237224579,
+        "ref_modelId": "1dc63eb0c6b1102f5369e32fb818f337"
+    },
+    "b8e4dfe08a43badabaed5cf8a752d243": {
+        "distance": 0.0359911285340786,
+        "ref_modelId": "35f94bf244a7fdc5f51f77a6d7299806"
+    },
+    "7ae007a84e6e616d5781796ac0b9d597": {
+        "distance": 0.028370054438710213,
+        "ref_modelId": "513686d6d63a1d8e577b5d737869717e"
+    },
+    "951fb0d7ad8ab2bec5b5bea66ef4576d": {
+        "distance": 0.03843523934483528,
+        "ref_modelId": "4f42be4dd95e5e0c76e9713f57a5fcb6"
+    },
+    "d29c14f180ce319f71271c0017c27c86": {
+        "distance": 0.03167904168367386,
+        "ref_modelId": "9d0b25421c13008e35836c728d324152"
+    },
+    "8e1f9f4e3cd226bacb916d8f4f1ff996": {
+        "distance": 0.08889691531658173,
+        "ref_modelId": "8b52303e5ee47ac617ffa9a4ab48724c"
+    },
+    "7e5dada1bee3e6dfca76c527f185435c": {
+        "distance": 0.03846517950296402,
+        "ref_modelId": "653c0f8b819872b41a6af642cfc1a2bc"
+    },
+    "2194e6394a31194962e682c9809bff14": {
+        "distance": 0.04274818301200867,
+        "ref_modelId": "f3e50f6d0b7b293035836c728d324152"
+    },
+    "8fd6ca8f2d0ce46b846c0e4d54382ad6": {
+        "distance": 0.059101402759552,
+        "ref_modelId": "1ab4c6ef68073113cf004563556ddb36"
+    },
+    "a1d217ba806367cbc13a0d88b632af1d": {
+        "distance": 0.0452982559800148,
+        "ref_modelId": "50d277986a78f9fc3eec26c23f5bc80b"
+    },
+    "57cc406d478167a6a6c03a53cf0a14c9": {
+        "distance": 0.041862696409225464,
+        "ref_modelId": "a4da5746b99209f85da16758ae613576"
+    },
+    "c9288e09458ec0e9bbc45ba666751519": {
+        "distance": 0.03006168268620968,
+        "ref_modelId": "436be9df788b706fb40f0ac0fb9a650d"
+    },
+    "bb7755090f984ba85dd1bba5b1310523": {
+        "distance": 0.04718077927827835,
+        "ref_modelId": "3e08f5809c2abe523ebc93db58e716e"
+    },
+    "f678b1e737eb4d5c738e43095496b061": {
+        "distance": 0.04024418815970421,
+        "ref_modelId": "2b8e3e95616a5fedabf945c9a80683d1"
+    },
+    "2d701c588b3bbbc458c88d30f502a452": {
+        "distance": 0.039527129381895065,
+        "ref_modelId": "c6b6f0e604d6a5fe78a7b08b50e4d193"
+    },
+    "2a796094f95904e9c6193dcce7cff00c": {
+        "distance": 0.04425173997879028,
+        "ref_modelId": "c472e242175ecc75dea0c7d7198f1b0c"
+    },
+    "452a33df06b678c6822b5ad61b22977a": {
+        "distance": 0.03596889600157738,
+        "ref_modelId": "b661b93b67d0ca908cc8e5a741a7e8bd"
+    },
+    "6fd5741bbf559e0ff51f77a6d7299806": {
+        "distance": 0.021806785836815834,
+        "ref_modelId": "3b112cbb833b57ce7774eacf69d476db"
+    },
+    "79eb4b57cbd73e117e2e50070ddfd27c": {
+        "distance": 0.029073454439640045,
+        "ref_modelId": "4cd11ae56eba48684733824eae5cd9ae"
+    },
+    "c9ad9501c31fae5c71a782a4379556c7": {
+        "distance": 0.04454652592539787,
+        "ref_modelId": "77b57f3eebab844707cdefe012d0353"
+    },
+    "ed73c41dcfe9170119cc3eaf35cd388f": {
+        "distance": 0.019160140305757523,
+        "ref_modelId": "e44531f7204b6fb9fe43ff1e45af424d"
+    },
+    "25775a3ee25c6503dddd8ce1cda8c6d9": {
+        "distance": 0.026173703372478485,
+        "ref_modelId": "f8e8b0059395805d9bd3e6056359bce9"
+    },
+    "f325003cb7f94a7bf4b35f4029eb1ecf": {
+        "distance": 0.02358095720410347,
+        "ref_modelId": "9477f34f16c650f7cac9ba4482ce0612"
+    },
+    "3344c70694e1bacdc5bd1ef3bc48a26": {
+        "distance": 0.01998022571206093,
+        "ref_modelId": "20292fba71362950c59c53f7df509858"
+    },
+    "2fae93478f8bb6c423a62335a5f0e6d2": {
+        "distance": 0.06972014904022217,
+        "ref_modelId": "2a295b1bbb386e2f3ffa3a50996ad39e"
+    },
+    "eeaa44341a57c0cfb9531c981c83e1": {
+        "distance": 0.03986160457134247,
+        "ref_modelId": "dd276ac55465f51e1457f3eb061a2fca"
+    },
+    "ac440171fe3edf2a5284eac239212f2d": {
+        "distance": 0.0447680689394474,
+        "ref_modelId": "74ade89963828a37d94ed55f750426f"
+    },
+    "bee1f4fa0730c6c5735aedaf68f44c57": {
+        "distance": 0.06055229529738426,
+        "ref_modelId": "60052d2cbcb9f8e725c578fb351f3549"
+    },
+    "9004a7d87a62e40111310cfb881ab9a6": {
+        "distance": 0.03318525105714798,
+        "ref_modelId": "7bbb0921945cb5fb45e2a4e5729b970d"
+    },
+    "3c514c4f53e3f1ed4b3c42e318f3affc": {
+        "distance": 0.03312831372022629,
+        "ref_modelId": "ef130b03885738918f7d9678498f2295"
+    },
+    "5000e001c72cebf44f60f15da4c665d0": {
+        "distance": 0.04396979510784149,
+        "ref_modelId": "93d4c1821a6eccea462118aaf3f93639"
+    },
+    "d064b468c3cf683cedf48f9fa39262b": {
+        "distance": 0.041452959179878235,
+        "ref_modelId": "bee3ff1926f3068cf09df371fae9d63d"
+    },
+    "2edf007c0f4542554fa8d6439169bda4": {
+        "distance": 0.07493993639945984,
+        "ref_modelId": "1e4d84c0be21fadfe84db9643b62f161"
+    },
+    "5c63f336ce5ea7d621d1a69a8eeb6a01": {
+        "distance": 0.03834182024002075,
+        "ref_modelId": "d309951e04fd344c7b56d76bb19dcf39"
+    },
+    "1a35db5eb4f931a3eba0693b2c2a423b": {
+        "distance": 0.032089751213788986,
+        "ref_modelId": "706dbdfc48b19b0f423f1f7d60608f89"
+    },
+    "4a519fb8089dc7d248eaa510713cb074": {
+        "distance": 0.03987907990813255,
+        "ref_modelId": "5ac2020b6b8e2c5c8e5e60055b9b9f67"
+    },
+    "516c46ceaf6619d07ff6ace05b36a5": {
+        "distance": 0.06000114977359772,
+        "ref_modelId": "5d65f46bcc49eef08b378a8c4400c79b"
+    },
+    "e67447e5ab4b63246d871377f0c1e8cb": {
+        "distance": 0.03097769245505333,
+        "ref_modelId": "dc13119307bb03338aaae3d020f5ddf8"
+    },
+    "a882ada8bc14e42080d6227ff9b21190": {
+        "distance": 0.04490825533866882,
+        "ref_modelId": "7a7590d19cf8274dab610b0c94236463"
+    },
+    "e75f2a369eca1346b157bfb9ccdf274b": {
+        "distance": 0.03549831733107567,
+        "ref_modelId": "c0401853da58a1b7beedb4c8fd29e2d1"
+    },
+    "f9ac7801460434b271140e10b6211a6a": {
+        "distance": 0.03807337209582329,
+        "ref_modelId": "ed45493414f9214687694c57464ff1e3"
+    },
+    "504d908a55f3e0c764810cc21086da42": {
+        "distance": 0.020517613738775253,
+        "ref_modelId": "d20e0f359f37f7f5648b060eabbed82f"
+    },
+    "7311255cee3e412771a782a4379556c7": {
+        "distance": 0.03734646737575531,
+        "ref_modelId": "db247fa7a6d2ae45aff7c08b060f5ed6"
+    },
+    "a1cb5947d7b09c2c7ca68e217a316e15": {
+        "distance": 0.03184723109006882,
+        "ref_modelId": "eecddd2b28a9e59866f379f51753f72b"
+    },
+    "c26dfd3453d81bf7788eb1f5e7ba6e7b": {
+        "distance": 0.02562052197754383,
+        "ref_modelId": "9ee005b0d0cf88a0e7e684d25d4dcaf0"
+    },
+    "39f0da2d45ad3b6deb82e56bb4ec31e1": {
+        "distance": 0.036255285143852234,
+        "ref_modelId": "724b8cfc8c4b8e16300009db8b7749e9"
+    },
+    "689cf8174210c2701933ffef19678834": {
+        "distance": 0.03873984143137932,
+        "ref_modelId": "d013cc09fdad8ecca282c4787019214e"
+    },
+    "4791914b3bcaf57efebad4f49b26ec52": {
+        "distance": 0.03324223309755325,
+        "ref_modelId": "fc2ae302325d2c796820bd77cbfc18d6"
+    },
+    "e0b849b1545d35dab04cb542e2c50eb4": {
+        "distance": 0.05225842818617821,
+        "ref_modelId": "e98f06e93bcc237afebad4f49b26ec52"
+    },
+    "39806e081bf3fe564ee8db28f96ad26b": {
+        "distance": 0.0379389226436615,
+        "ref_modelId": "5700152736510e2b45c44a42b411ced8"
+    },
+    "5a61158cfba0bb6a80360680c1602c7d": {
+        "distance": 0.044476356357336044,
+        "ref_modelId": "486b0764bb1fb92cc3bd24f986301745"
+    },
+    "4506f150e4f43633fab6e40cce6926d7": {
+        "distance": 0.04780246689915657,
+        "ref_modelId": "4cbfd25faaa706daea0e09825584e0d"
+    },
+    "2444551d00693a0fab610b0c94236463": {
+        "distance": 0.054273009300231934,
+        "ref_modelId": "ec68e1edbb7e9bc7e93cebb6ba9ca43e"
+    },
+    "372d52845e1c620fef3b6dbf349349be": {
+        "distance": 0.028713736683130264,
+        "ref_modelId": "4805127beacfba4a7e7e510dabdd3cc0"
+    },
+    "a42ad074c9b1bf2467dc358060e3c47b": {
+        "distance": 0.04658263176679611,
+        "ref_modelId": "1f239239d1039d60ad8e5e47362bc281"
+    },
+    "98bba4f6837ece036c18e23645ff9868": {
+        "distance": 0.03992507606744766,
+        "ref_modelId": "7fd24508190c2e5351d3c864cc68e22e"
+    },
+    "fb3c684afcafce085a3075d93a0a3a93": {
+        "distance": 0.058415405452251434,
+        "ref_modelId": "41e443beb22248b46ba14bfd91a75020"
+    },
+    "6e9e8100ffa2a7fb3b1bee6df796f998": {
+        "distance": 0.024849653244018555,
+        "ref_modelId": "62ae9ded861138be9d2be74cfb51ade1"
+    },
+    "7d0eea8581ece273820018801b237b3d": {
+        "distance": 0.047346703708171844,
+        "ref_modelId": "7d0eea8581ece273820018801b237b3d"
+    },
+    "78ccb410de7bfd821f8d8332ee17945a": {
+        "distance": 0.037054192274808884,
+        "ref_modelId": "711d3e719d7655adb8183a4a81361b94"
+    },
+    "392315d4bc7f11f0ca67acef5667509c": {
+        "distance": 0.03800134360790253,
+        "ref_modelId": "1e37f6dad9bb5fdf2f05c3ceed4d6250"
+    },
+    "905628a74c7cec233a574a2e3bc99a1": {
+        "distance": 0.029748177155852318,
+        "ref_modelId": "e4571a5b7457d2dacea003eff0268278"
+    },
+    "b0c37b379725feec97ed2c3bf3711e68": {
+        "distance": 0.03569108620285988,
+        "ref_modelId": "631a942d7b87387019fb4103277a6b93"
+    },
+    "21d141b130a76e0e497b98603e1cd1f": {
+        "distance": 0.029050573706626892,
+        "ref_modelId": "7ee773e031400d09b4fc0a2b20c3cddd"
+    },
+    "d22e15286d0d99ec52d2de7b04447df3": {
+        "distance": 0.03908464312553406,
+        "ref_modelId": "1f7ae7a902f453b39dd0cb4dfd5b80bc"
+    },
+    "5d45378d9d2e11ff497df23b9b74f339": {
+        "distance": 0.031895339488983154,
+        "ref_modelId": "ab55372db393e4259ccce4c6d5bb195f"
+    },
+    "2087680eed2edc0a20bf3b65a70accd3": {
+        "distance": 0.02658722549676895,
+        "ref_modelId": "9cd301c49dd65c68819b97ced0e92930"
+    },
+    "d20e0f359f37f7f5648b060eabbed82f": {
+        "distance": 0.03561833128333092,
+        "ref_modelId": "c1fab1be028d2d1192d39b162a300de1"
+    },
+    "dd468c350fc655eafebad4f49b26ec52": {
+        "distance": 0.04926419258117676,
+        "ref_modelId": "91d47945645a1039eaf14273fa406ffc"
+    },
+    "54ec14c2afc2b7e37c5d07ba5fee5aad": {
+        "distance": 0.030795935541391373,
+        "ref_modelId": "109a8d453ce93a6fc21b51dd4113da62"
+    },
+    "2d52675c865f669047bc3701b998a7d5": {
+        "distance": 0.027587145566940308,
+        "ref_modelId": "676d05aaaeecb8a04b3c42e318f3affc"
+    },
+    "855c6cc99578afda6a5ef4b501708f3": {
+        "distance": 0.02639356628060341,
+        "ref_modelId": "1a43bd2e53364313f51f77a6d7299806"
+    },
+    "251160ca48f91de7ad5067eac75a07f7": {
+        "distance": 0.058237649500370026,
+        "ref_modelId": "f585560965413925d706ecb3379aa341"
+    },
+    "5437d8fcd8dcb47a4733824eae5cd9ae": {
+        "distance": 0.05310186743736267,
+        "ref_modelId": "f585560965413925d706ecb3379aa341"
+    },
+    "5eba36c416524db2f42a90fe4baf4591": {
+        "distance": 0.028933309018611908,
+        "ref_modelId": "3e915e96e22f15a1af9174ac65b8d24c"
+    },
+    "c826802d2a084845979f073230404b25": {
+        "distance": 0.051157377660274506,
+        "ref_modelId": "fc93d1a1476e4f86309c518184dfbf58"
+    },
+    "2f98d5e721e84debaa8081a7009091db": {
+        "distance": 0.019757214933633804,
+        "ref_modelId": "8f440a7c0e2af79f3ed0ffd59feeec00"
+    },
+    "e01e72e173dd2cec8c76ec1f86d432b3": {
+        "distance": 0.029801897704601288,
+        "ref_modelId": "8ca1fd346eb62580ffc6e457221b9271"
+    },
+    "bd3dddce162f59ead92dd8f41946f1b2": {
+        "distance": 0.03316356986761093,
+        "ref_modelId": "79eeee790ed5a5aac242632b2a8c3129"
+    },
+    "f2ba8040ab2d2745febad4f49b26ec52": {
+        "distance": 0.04595361277461052,
+        "ref_modelId": "6b678921222e3375f9395f1ee40f845e"
+    },
+    "c67b454761d7c84eb2a155afd9dbbb0a": {
+        "distance": 0.0436381995677948,
+        "ref_modelId": "98ec86d721b235374d18c1ce5fca6777"
+    },
+    "22ea80a1c8798eb22d19175e7d19b7cb": {
+        "distance": 0.03487911820411682,
+        "ref_modelId": "3817a222e96acc4ca78510b72d2281ea"
+    },
+    "5919dea71f3bcb071d54ab02e78bef2": {
+        "distance": 0.034415796399116516,
+        "ref_modelId": "23d68e01b77089ae76ad4f5e7c7020eb"
+    },
+    "87ff92c179ed5ed292f4c88fd91c6b1b": {
+        "distance": 0.044486843049526215,
+        "ref_modelId": "8ce538a671c6e684d93768e7b9b1eabf"
+    },
+    "a223fb0172d705fc3234880d6f34f7eb": {
+        "distance": 0.04391523823142052,
+        "ref_modelId": "e18b448f7e5f6ecc1baf720a45fc5c38"
+    },
+    "39f202c92b0afd0429d8eecf3827c486": {
+        "distance": 0.04693514108657837,
+        "ref_modelId": "2b88cee2ab30101b9b11da89c22111dd"
+    },
+    "9d5ffd7cc6f9084abd790f9b668aa24f": {
+        "distance": 0.023638857528567314,
+        "ref_modelId": "707e63122691f0cb490ad276cd2af3a4"
+    },
+    "cd0581de9bae7c6c7d1aee311ce12c70": {
+        "distance": 0.03471493348479271,
+        "ref_modelId": "388d9e7b2b8a8f909492fbce0bd54e2e"
+    },
+    "a4cd409ceb0aa148d93cf5f5bfd78ab4": {
+        "distance": 0.039297886192798615,
+        "ref_modelId": "5b109b578e82cd4f40ebe9b2fa95ae8"
+    },
+    "ed0b1bd723063c8ee1be359afa82825": {
+        "distance": 0.022652847692370415,
+        "ref_modelId": "ac9fae8af57729945eee45c00c4de9d3"
+    },
+    "30f06495dec55016bde93a1daa41f517": {
+        "distance": 0.03207821026444435,
+        "ref_modelId": "3817a222e96acc4ca78510b72d2281ea"
+    },
+    "b6457c273fca48f8b5b7c35a8e7396f2": {
+        "distance": 0.0234953872859478,
+        "ref_modelId": "f2893a87ec37f8b3781cb4570305e329"
+    },
+    "f9bac9ba3b878cf23a6e0d0a575f76a3": {
+        "distance": 0.042435310781002045,
+        "ref_modelId": "8bd48b85e15e23e162c098c9081f25f4"
+    },
+    "677f0b4f9c5398caa3e1d5a29d2bb5b9": {
+        "distance": 0.03638298064470291,
+        "ref_modelId": "5f8764573a6f8321c1a89c6b124f2475"
+    },
+    "119a538325398df617b2b37d6988a89b": {
+        "distance": 0.05883350223302841,
+        "ref_modelId": "9c12baa3337390578592b396b177b348"
+    },
+    "d45cb36eb4c38786b9a7614f2da8d7ae": {
+        "distance": 0.03375215828418732,
+        "ref_modelId": "a1cb5947d7b09c2c7ca68e217a316e15"
+    },
+    "388c9f343896272813126e7abd481c60": {
+        "distance": 0.05267433077096939,
+        "ref_modelId": "82e4990a3a9290f33ffd3a8003988fa3"
+    },
+    "ad7ae42e620d2ce7e074517a246f1e65": {
+        "distance": 0.03200475126504898,
+        "ref_modelId": "ef130b03885738918f7d9678498f2295"
+    },
+    "87dda49474723fa816a2b5862518c93": {
+        "distance": 0.036764100193977356,
+        "ref_modelId": "faa05897ccdaa0e4f51f77a6d7299806"
+    },
+    "cc5b638d81529dde3c2e50348f23d3d": {
+        "distance": 0.03297504037618637,
+        "ref_modelId": "cb374c698a5339f3d6fab6a6a552905a"
+    },
+    "c40a88d13709eba91f30b807ae39b61d": {
+        "distance": 0.03653758391737938,
+        "ref_modelId": "798598965a343fc9b0957d845ac33749"
+    },
+    "e4089e22c991e2dcfd277d65d018c82e": {
+        "distance": 0.036981385201215744,
+        "ref_modelId": "ed66ef9698fef541b945039752747042"
+    },
+    "ddc16ae1263d506c955e5ed03ef3a2f": {
+        "distance": 0.027048837393522263,
+        "ref_modelId": "719d38e7ec228bc9ad329b1997e89fc7"
+    },
+    "186f6c911a4255bc1b17743c18fb63dc": {
+        "distance": 0.02347634546458721,
+        "ref_modelId": "e055a8a5d8ca0b9869df3aa2bce421f5"
+    },
+    "96fa9d34fcb17ff21fc43d5b32fa230f": {
+        "distance": 0.04083333909511566,
+        "ref_modelId": "53433c9845f6b53955034479f8a160c7"
+    },
+    "873d8928f314d95045613f5c2df1029a": {
+        "distance": 0.024793893098831177,
+        "ref_modelId": "ac9fae8af57729945eee45c00c4de9d3"
+    },
+    "1c57228e08cdd81ea375e397f0227097": {
+        "distance": 0.052176207304000854,
+        "ref_modelId": "60052d2cbcb9f8e725c578fb351f3549"
+    },
+    "7b22287c9a2ad418b9deee229eae6efa": {
+        "distance": 0.045751381665468216,
+        "ref_modelId": "963ead3bc27459b2f51f77a6d7299806"
+    },
+    "bc1ff7fc750617d690f7bef12e52ac08": {
+        "distance": 0.03344198316335678,
+        "ref_modelId": "75ddfe6d71b14184134155606601dcb2"
+    },
+    "177f4749d22ccddbf4ae8c93f4db5e6": {
+        "distance": 0.037567995488643646,
+        "ref_modelId": "4de9fa90bcbd6beec3bd24f986301745"
+    },
+    "d7f9651b64c82c799e7c6a73ef46f40c": {
+        "distance": 0.04765396565198898,
+        "ref_modelId": "60052d2cbcb9f8e725c578fb351f3549"
+    },
+    "b6758a9b899d540919fb4103277a6b93": {
+        "distance": 0.026093849912285805,
+        "ref_modelId": "f2893a87ec37f8b3781cb4570305e329"
+    },
+    "e2f632abcd84c03ae7354dcb6082ee59": {
+        "distance": 0.03758061304688454,
+        "ref_modelId": "1e4d84c0be21fadfe84db9643b62f161"
+    },
+    "5fdde770581fa1fcbae326b60581fb7d": {
+        "distance": 0.03018435835838318,
+        "ref_modelId": "7d9073ffce209233865f763ab6e6778a"
+    },
+    "77f54df25e2d1bf99a1735fdc80135be": {
+        "distance": 0.037433553487062454,
+        "ref_modelId": "3e915e96e22f15a1af9174ac65b8d24c"
+    }
+}
